@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "requirejs": "^2.3.6"
+  },
+  "name": "js-exercies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node back-end/index",
+    "dev": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
